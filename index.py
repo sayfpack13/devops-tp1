@@ -1,3 +1,2 @@
 def test():
-	print("hello")
-	print("second update")
+	print("hello conflict branch")
